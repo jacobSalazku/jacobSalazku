@@ -2,7 +2,6 @@
   <p align="left">Hi 👋, I'm Jacob</p>
   <p align="left">Passionate Web Developer from Antwerp</p>
   <p align="left">I'm a student Multimedia and Creative Techonology</p>
-  <p align="left">Passionate Web Developer from Antwerp</p>
   <p align="left"> 📫 Reach me at jacob.salazaku@student.kdg.be</p>
 </p>
 
