@@ -2,12 +2,12 @@
   <p align="left">Hi 👋, I'm Jacob</p>
   <p align="left">Passionate Web Developer from Antwerp</p>
   <p align="left">I'm a student Multimedia and Creative Techonology</p>
-  <p align="left"> 📫 Reach me at jacob.salazaku@student.kdg.be</p>
+  <p>🌱 I’m currently learning Nextjs </p>
 </p>
+ <p align="left"> 📫 Reach me at jacob.salazaku@student.kdg.be</p>
 
 
-
-## Tech Used
+## Tech Used and Learning
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
