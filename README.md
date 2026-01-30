@@ -3,7 +3,7 @@
   <p align="left">Web Developer from Antwerp</p>
   <p align="left">Creative Techonologist</p>
 </p>
- <p align="left"> 📫 Reach me at jacob.salazaku@student.kdg.be</p>
+ <p align="left"> 📫 Reach me at jacob.salazaku69@gmail.com</p>
 
 
 ## Tech Used and Learning
